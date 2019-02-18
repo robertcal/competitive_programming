@@ -27,3 +27,4 @@ foreach ($min as $key => $value) {
     $max[] = floor($N / $value);
 }
 
+//解説動画を見てもまったくわからないので、一旦パス
